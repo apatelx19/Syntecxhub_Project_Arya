@@ -117,6 +117,9 @@ section{
   color:#cbd5e1;
   font-size:18px;
 }
+.bachelor{
+    text-align: center;
+}
 
 .skills-container{
   display:grid;
